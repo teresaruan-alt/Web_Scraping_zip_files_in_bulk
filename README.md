@@ -25,6 +25,6 @@ Process:
 
 
 
-#### Step 2) WIP- import all into SQL Server for further analysis
+#### Step 2) WIP- import all csv files into SQL Server for further analysis
 
 
