@@ -6,6 +6,7 @@ Process:
 #### Step 1) Inspect URL using Chrome DevTools in DOM 
 
 1.0: Inspect url where information reside 
+
      Initial URL= 'https://s3.amazonaws.com/tripdata/index.html'
      tripdata_url='https://s3.amazonaws.com/tripdata/'
      
